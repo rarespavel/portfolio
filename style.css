@@ -1,0 +1,53 @@
+html {
+	box-sizing: border-box;
+	font-size: 14px;
+}
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+b {
+	display: block;
+	font-weight: normal;
+}
+i {
+	display: inline-block;
+	font-style: normal;
+}
+a {
+	text-decoration: inherit;
+	color: inherit;
+}
+img {
+	width: 100%;
+	height: auto;
+}
+input {
+	color: inherit;
+}
+input::placeholder {
+	color: inherit;
+}
+textarea {
+	color: inherit;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+}
+textarea::placeholder {
+	color: inherit;
+}
+
+div {
+	padding: 1rem;
+	margin: -2px;
+	border: 2px solid black;
+}
+ion-icon {
+	width: 30px;
+	height: 30px;
+}
+.logo img {
+	width: 150px;
+}

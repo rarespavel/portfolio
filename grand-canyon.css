@@ -1,0 +1,22 @@
+.grand-canyon {
+	color: white;
+	background-image: url(https://media.deseretdigital.com/file/aa89988589?type=jpeg&quality=55&c=15&a=4379240d);
+}
+
+.link {
+	background-color: yellow;
+	color: black;
+}
+
+.main {
+	backdrop-filter: blur(4px);
+}
+.subheading {
+	text-transform: capitalize;
+	font-size: 30px;
+}
+
+.heading {
+	text-transform: uppercase;
+	font-size: 100px;
+}

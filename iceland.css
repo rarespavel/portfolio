@@ -1,0 +1,10 @@
+.iceland {
+	color: white;
+	background-image: url(https://www.state.gov/wp-content/uploads/2018/11/Iceland-2109x1406.jpg);
+}
+.link {
+	color: white;
+}
+.country {
+	text-transform: capitalize;
+}
